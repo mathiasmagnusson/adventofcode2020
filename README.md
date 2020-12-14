@@ -16,25 +16,26 @@
 | 10  | Lua        |
 
 Language ideas:
-    * assembly
-    * c#
-    * common lisp
-    * crystal
-    * d
-    * dart
-    * elixir
-    * erlang
-    * f#
-    * java
-    * julia
-    * kotlin
-    * nim
-    * odin
-    * perl
-    * php
-    * r
-    * ruby
-    * scala
-    * scheme
-    * shell
-    * webassembly (wat)
+
+* assembly
+* c#
+* common lisp
+* crystal
+* d
+* dart
+* elixir
+* erlang
+* f#
+* java
+* julia
+* kotlin
+* nim
+* odin
+* perl
+* php
+* r
+* ruby
+* scala
+* scheme
+* shell
+* webassembly (wat)
